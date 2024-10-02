@@ -3,6 +3,9 @@ ALUNOS:
 Alex Rafael Oneda, Layne Laís de Castilho Firmino, Guilherme Schweitzer e Rafaela Correa
 ```
 
+>[IMPORTANT]
+>Proposta .... finalizar.
+
 # :desktop_computer: Interface do Usuário (UI)
 
 ## TELA - Login/Cadastro

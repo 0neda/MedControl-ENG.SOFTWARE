@@ -3,9 +3,9 @@ ALUNOS:
 Alex Rafael Oneda, Layne Laís de Castilho Firmino, Guilherme Schweitzer e Rafaela Correa
 ```
 
-## :desktop_computer: Interface do Usuário (UI)
+# :desktop_computer: Interface do Usuário (UI)
 
-### TELA - Login/Cadastro
+## TELA - Login/Cadastro
 >[!NOTE]
 >
 >- **Campos de entrada para o cadastro:**
@@ -20,7 +20,7 @@ Alex Rafael Oneda, Layne Laís de Castilho Firmino, Guilherme Schweitzer e Rafae
 >
 >A parte de login funcionará em torno do cadastro.
 
-### TELA - Principal (Estilo Painel)
+## TELA - Principal (Estilo Painel)
 >[!NOTE]
 >
 >- Logo e menu de usuário
@@ -31,7 +31,7 @@ Alex Rafael Oneda, Layne Laís de Castilho Firmino, Guilherme Schweitzer e Rafae
 >- Alertas de lembretes para doses próximas
 >- Visualização de calendário simplificada para a semana atual
 
-### TELA - Gerenciamento de Medicamentos (Adicionar, Editar, Remover)
+## TELA - Gerenciamento de Medicamentos (Adicionar, Editar, Remover)
 >[!NOTE]
 >
 >- Formulário conforme tabela `medications`
@@ -46,14 +46,14 @@ Alex Rafael Oneda, Layne Laís de Castilho Firmino, Guilherme Schweitzer e Rafae
 >
 >As partes de gerenciamento e remoção vão funcionar em torno dos cadastros efetuados e na mesma tela.
 
-### TELA - Visão Geral do Tratamento
+## TELA - Visão Geral do Tratamento
 >[!NOTE]
 >
 >- Lista de todos os medicamentos atuais
 >- Detalhes de dosagem e frequência para cada medicamento
 >- Opção para filtrar por período
 
-### TELA - Registro de Efeitos Colaterais
+## TELA - Registro de Efeitos Colaterais
 >[!NOTE]
 >
 >- Formulário para registrar efeitos colaterais associados a medicamentos específicos (já cadastrados no painel pessoal do usuário)

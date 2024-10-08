@@ -4,7 +4,8 @@ Alex Rafael Oneda, Layne Laís de Castilho Firmino, Guilherme Schweitzer e Rafae
 ```
 
 >[!IMPORTANT]
->Proposta .... finalizar.
+>A proposta do nosso software é facilitar a rotina de quem faz uso de remédios contínuos ou sente necessidade de algo para auxiliar a lembrar de tomar os remédios que deve tomar.
+>A idéia inicial é focarmos na parte dos lembretes de remédios a serem tomados e uma lista de remédios, para no futuro avançarmos para mais funcionalidades como um registro de ficha médica no perfil privado de cada usuário, integração com laboratórios para automação de guias médicas e resultados, rastreio de quantia de cada remédio em estoque em casa e outros.
 
 # :desktop_computer: Interface do Usuário (UI)
 
